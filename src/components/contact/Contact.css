@@ -1,0 +1,61 @@
+#contact h2{
+    text-align: center;
+    color:#355592;
+}
+
+#contact h4{
+    margin-top: 50px;
+    text-align: center;
+    font:-webkit-small-control;
+}
+
+#contact h4{
+    font:-webkit-small-control;
+}
+
+#contact p{
+    font:-webkit-small-control;
+}
+
+#contact .contact-info .contact-details{
+    overflow: hidden;
+    display: inline-flex;
+}
+
+#contact .contact-info .contact-number{
+    display: block;
+    overflow: hidden;
+    margin-left: 10px;
+    margin-top: 75px;
+}
+
+#contact .contact-info .contact-mail{
+    overflow: hidden;
+    margin-left: 70px;
+}
+
+#contact .contact-title{
+    margin: 24px 12px;
+}
+
+#contact .contact-form input,
+#contact .contact-form textarea{
+    font-size: 14px;
+    background-color: #f1f8ff;
+    width: 100%;
+}
+
+/* #contact .contact-form .btn.btn-primary{
+    margin-top: 15px;
+    width: 100%;
+    height: 30px;
+    letter-spacing: 0;
+    padding-bottom: 35px;
+
+} */
+
+#contact .row .contact-map iframe{
+    margin-top: 75px;
+    width: 100%;
+    height: 375px;
+}
